@@ -7,3 +7,6 @@
 - аугментация при помощи библиотеки albumentations
 - политика One Cycle Policy для Learning Rate
 - аугментация изображений из тестовой выборки - test time augmentation (TTA)
+
+
+Результат на Kaggle  - Score: 0.94112
